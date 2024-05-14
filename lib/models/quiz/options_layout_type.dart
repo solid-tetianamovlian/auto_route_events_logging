@@ -1,0 +1,4 @@
+enum OptionsLayoutType {
+  inline,
+  grid,
+}
